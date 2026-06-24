@@ -14,4 +14,4 @@ jobs:
     name: Make
     steps:
     - uses: actions/checkout@v7
-    - run: make debug
+    - run: make
