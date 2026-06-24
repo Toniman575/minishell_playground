@@ -6,13 +6,13 @@
 /*   By: asadik <asadik@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/06/24 15:11:01 by asadik            #+#    #+#             */
-/*   Updated: 2026/06/24 15:11:02 by asadik           ###   ########.fr       */
+/*   Updated: 2026/06/24 15:12:22 by asadik           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdio.h>
 
-int	main()
+int	main(void)
 {
 	printf("asdasd");
 	printf("main stuff");
