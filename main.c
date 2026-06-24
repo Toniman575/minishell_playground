@@ -4,4 +4,5 @@ int	main()
 {
 	printf("asdasd");
 	printf("main stuff");
+	printf("testing stuff");
 }
