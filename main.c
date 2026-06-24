@@ -6,7 +6,7 @@
 /*   By: asadik <asadik@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/06/24 15:11:01 by asadik            #+#    #+#             */
-/*   Updated: 2026/06/24 15:12:22 by asadik           ###   ########.fr       */
+/*   Updated: 2026/06/24 15:38:28 by asadik           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,6 +15,9 @@
 int	main(void)
 {
 	printf("asdasd");
+	printf("main stuff");
+	printf("main stuff");
+	printf("main stuff");
 	printf("main stuff");
 	printf("testing stuff");
 }
